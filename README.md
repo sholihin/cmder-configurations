@@ -10,7 +10,7 @@ Set Specified name task to `{GIt Bash}`
 - Task Parameter
 
 ```
-/icon "C:\Program Files\Git\etc\git.ico" /dir "D:\iconproject"
+/icon "C:\Program Files\Git\mingw64\share\git\git-for-windows.ico" /dir "D:\iconproject"
 ```
 
 - Commands
